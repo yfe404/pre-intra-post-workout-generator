@@ -1,7 +1,7 @@
-* pre-intra-post-workout-generator
 
+* Pre/Intra/Post Workout Generator
 
-** Draft (just a reminder for me, don't pay attention)
+** Draft
 
 *** Before (30min to 1h) 
 
@@ -67,6 +67,8 @@ the adequate dose of proteins is between 40g plus 5g of leucin IFF you didn't ta
 
 you can take hydrolysat or whey (doesn't really matter but whey is usually cheaper) - don't take proteins powder if the next meal 
 is in less than 1h30 after the end of the workout (you may take the leucin anyway) 
+
+
 
 
 
